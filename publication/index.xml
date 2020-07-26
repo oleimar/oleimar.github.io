@@ -1,40 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Olof Leimar</title>
+    <title>Publications | Olof Leimar</title>
     <link>https://oleimar.github.io/publication/</link>
-    <description>Recent content in Publications on Olof Leimar</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+      <atom:link href="https://oleimar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://oleimar.github.io/images/icon_hu05798da5833095988f190093553a38f3_1610_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://oleimar.github.io/publication/</link>
+    </image>
     
-	<atom:link href="https://oleimar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ecological genetic conflict: Genetic architecture can shift the balance between local adaptation and plasticity</title>
+      <link>https://oleimar.github.io/publication/quinones_etal2020/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://oleimar.github.io/publication/quinones_etal2020/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Learning leads to bounded rationality and the evolution of  cognitive bias in public goods games</title>
+      <link>https://oleimar.github.io/publication/leimar_mcnamara2019/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://oleimar.github.io/publication/leimar_mcnamara2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game theory models of animal contests: are we at a standstill?: a comment on Chapin et al</title>
+      <link>https://oleimar.github.io/publication/leimar2019/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://oleimar.github.io/publication/leimar2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalization of learned preferences covaries with behavioral flexibility in red junglefowl chicks</title>
+      <link>https://oleimar.github.io/publication/zidar_etal2019/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://oleimar.github.io/publication/zidar_etal2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A mechanistic understanding of repellent function against mammalian herbivores</title>
       <link>https://oleimar.github.io/publication/stutz_etal2019b/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://oleimar.github.io/publication/stutz_etal2019b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient application of a browsing repellent: Can associational effects within and between plants be exploited?</title>
-      <link>https://oleimar.github.io/publication/stutz_etal2019/</link>
+      <link>https://oleimar.github.io/publication/stutz_etal2019a/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/stutz_etal2019/</guid>
+      <guid>https://oleimar.github.io/publication/stutz_etal2019a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ecological genetic conflict: Genetic architecture can shift the balance between local adaptation and plasticity</title>
       <link>https://oleimar.github.io/publication/leimar_etal2019/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://oleimar.github.io/publication/leimar_etal2019/</guid>
       <description></description>
     </item>
@@ -42,8 +71,7 @@
     <item>
       <title>The relationship between learning speed and personality is age- and task-dependent in red junglefowl</title>
       <link>https://oleimar.github.io/publication/zidar_etal2018/</link>
-      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
-      
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://oleimar.github.io/publication/zidar_etal2018/</guid>
       <description></description>
     </item>
@@ -52,26 +80,15 @@
       <title>Biased generalization of salient traits drives the evolution of warning signals</title>
       <link>https://oleimar.github.io/publication/gamberale-stille_etal2018/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://oleimar.github.io/publication/gamberale-stille_etal2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Personality remains: No effect of 3-week social status experience on personality in male fowl</title>
+      <title>Personality remains: no effect of 3-week social status experience on personality in male fowl</title>
       <link>https://oleimar.github.io/publication/favati_etal2018/</link>
-      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/favati_etal2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cohesiveness reduces foraging efficiency in a social herbivore</title>
-      <link>https://oleimar.github.io/publication/stutz_etal2018/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/stutz_etal2018/</guid>
+      <guid>https://oleimar.github.io/publication/favati_etal2018/</guid>
       <description></description>
     </item>
     
@@ -79,179 +96,15 @@
       <title>Learning of salient prey traits explains Batesian mimicry evolution</title>
       <link>https://oleimar.github.io/publication/kazemi_etal2018/</link>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://oleimar.github.io/publication/kazemi_etal2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A comparison of animal personality and coping styles in the red junglefowl</title>
-      <link>https://oleimar.github.io/publication/zidar_etal2017/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/zidar_etal2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Winter chilling speeds spring development of temperate butterflies</title>
-      <link>https://oleimar.github.io/publication/stalhandske_etal2017/</link>
-      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/stalhandske_etal2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adaptation to fluctuating environments in a selection experiment with Drosophila melanogaster</title>
-      <link>https://oleimar.github.io/publication/kubrak_etal2017/</link>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/kubrak_etal2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Borrowed plant defences: Deterring browsers using a forestry by-product</title>
-      <link>https://oleimar.github.io/publication/stutz_etal2017/</link>
-      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/stutz_etal2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Individual aggression, but not winner-loser effects, predicts social rank in male domestic fowl</title>
-      <link>https://oleimar.github.io/publication/favati_etal2017/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/favati_etal2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Directional associational plant defense from Red deer (Cervus elaphus) foraging decisions</title>
-      <link>https://oleimar.github.io/publication/bergvallleimar2017/</link>
-      <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/bergvallleimar2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phenological matching rather than genetic variation in host preference underlies geographical variation in host plants used by orange tip butterflies</title>
-      <link>https://oleimar.github.io/publication/stalhandske_etal2016/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/stalhandske_etal2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Detection vs. selection: integration of genetic, epigenetic and environmental cues in fluctuating environments</title>
-      <link>https://oleimar.github.io/publication/mcnamara_etal2016/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/mcnamara_etal2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genes as Cues of Relatedness and Social Evolution in Heterogeneous Environments</title>
-      <link>https://oleimar.github.io/publication/leimar_etal2016/</link>
-      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/leimar_etal2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards a mechanistic understanding of insect life history evolution: Oxygen-dependent induction of moulting explains moulting sizes</title>
-      <link>https://oleimar.github.io/publication/kivela_etal2016/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/kivela_etal2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effect of winter cold duration on spring phenology of the orange tip butterfly, Anthocharis cardamines</title>
-      <link>https://oleimar.github.io/publication/stalhandske_etal2015/</link>
-      <pubDate>Sat, 07 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/stalhandske_etal2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-trait mimicry and the relative salience of individual traits</title>
-      <link>https://oleimar.github.io/publication/kazemi_etal2015/</link>
-      <pubDate>Sat, 07 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/kazemi_etal2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genes as cues: phenotypic integration of genetic and epigenetic information from a Darwinian perspective</title>
-      <link>https://oleimar.github.io/publication/dall_etal2015/</link>
-      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/dall_etal2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The evolution of transgenerational integration of information in heterogeneous environments</title>
-      <link>https://oleimar.github.io/publication/leimarmcnamara2015/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/leimarmcnamara2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolutionary Game Theory in Biology</title>
-      <link>https://oleimar.github.io/publication/hammersteinleimar2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/hammersteinleimar2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Variation in two phases of post-winter development of a butterfly</title>
-      <link>https://oleimar.github.io/publication/stalhandske_etal2014/</link>
-      <pubDate>Mon, 27 Oct 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/stalhandske_etal2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alate production in an aphid in relation to ant tending and alarm pheromone</title>
-      <link>https://oleimar.github.io/publication/tegelaarleimar2014/</link>
-      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/tegelaarleimar2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personality predicts social dominance in male domestic fowl</title>
-      <link>https://oleimar.github.io/publication/favati_etal2014/</link>
-      <pubDate>Tue, 29 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/favati_etal2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stimulus salience as an explanation for imperfect mimicry</title>
-      <link>https://oleimar.github.io/publication/kazemi_etal2014/</link>
-      <pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/kazemi_etal2014/</guid>
+      <title>Cohesiveness reduces foraging efficiency in a social herbivore</title>
+      <link>https://oleimar.github.io/publication/stutz_etal2018/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://oleimar.github.io/publication/stutz_etal2018/</guid>
       <description></description>
     </item>
     

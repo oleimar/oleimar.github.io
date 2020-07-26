@@ -1,37 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Olof Leimar on Olof Leimar</title>
+    <title>Olof Leimar</title>
     <link>https://oleimar.github.io/</link>
-    <description>Recent content in Olof Leimar on Olof Leimar</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+      <atom:link href="https://oleimar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Olof Leimar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://oleimar.github.io/images/icon_hu05798da5833095988f190093553a38f3_1610_512x512_fill_lanczos_center_2.png</url>
+      <title>Olof Leimar</title>
+      <link>https://oleimar.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Ecological genetic conflict: Genetic architecture can shift the balance between local adaptation and plasticity</title>
+      <link>https://oleimar.github.io/publication/quinones_etal2020/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://oleimar.github.io/publication/quinones_etal2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning leads to bounded rationality and the evolution of  cognitive bias in public goods games</title>
+      <link>https://oleimar.github.io/publication/leimar_mcnamara2019/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://oleimar.github.io/publication/leimar_mcnamara2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game theory models of animal contests: are we at a standstill?: a comment on Chapin et al</title>
+      <link>https://oleimar.github.io/publication/leimar2019/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://oleimar.github.io/publication/leimar2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalization of learned preferences covaries with behavioral flexibility in red junglefowl chicks</title>
+      <link>https://oleimar.github.io/publication/zidar_etal2019/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://oleimar.github.io/publication/zidar_etal2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A mechanistic understanding of repellent function against mammalian herbivores</title>
       <link>https://oleimar.github.io/publication/stutz_etal2019b/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://oleimar.github.io/publication/stutz_etal2019b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient application of a browsing repellent: Can associational effects within and between plants be exploited?</title>
-      <link>https://oleimar.github.io/publication/stutz_etal2019/</link>
+      <link>https://oleimar.github.io/publication/stutz_etal2019a/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/stutz_etal2019/</guid>
+      <guid>https://oleimar.github.io/publication/stutz_etal2019a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ecological genetic conflict: Genetic architecture can shift the balance between local adaptation and plasticity</title>
       <link>https://oleimar.github.io/publication/leimar_etal2019/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://oleimar.github.io/publication/leimar_etal2019/</guid>
       <description></description>
     </item>
@@ -39,56 +71,24 @@
     <item>
       <title>The relationship between learning speed and personality is age- and task-dependent in red junglefowl</title>
       <link>https://oleimar.github.io/publication/zidar_etal2018/</link>
-      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
-      
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://oleimar.github.io/publication/zidar_etal2018/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Example Page</title>
-      <link>https://oleimar.github.io/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://oleimar.github.io/tutorial/example/</guid>
-      <description>
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
     </item>
     
     <item>
       <title>Biased generalization of salient traits drives the evolution of warning signals</title>
       <link>https://oleimar.github.io/publication/gamberale-stille_etal2018/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://oleimar.github.io/publication/gamberale-stille_etal2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Personality remains: No effect of 3-week social status experience on personality in male fowl</title>
+      <title>Personality remains: no effect of 3-week social status experience on personality in male fowl</title>
       <link>https://oleimar.github.io/publication/favati_etal2018/</link>
-      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/favati_etal2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cohesiveness reduces foraging efficiency in a social herbivore</title>
-      <link>https://oleimar.github.io/publication/stutz_etal2018/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/stutz_etal2018/</guid>
+      <guid>https://oleimar.github.io/publication/favati_etal2018/</guid>
       <description></description>
     </item>
     
@@ -96,62 +96,15 @@
       <title>Learning of salient prey traits explains Batesian mimicry evolution</title>
       <link>https://oleimar.github.io/publication/kazemi_etal2018/</link>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://oleimar.github.io/publication/kazemi_etal2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A comparison of animal personality and coping styles in the red junglefowl</title>
-      <link>https://oleimar.github.io/publication/zidar_etal2017/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/zidar_etal2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Winter chilling speeds spring development of temperate butterflies</title>
-      <link>https://oleimar.github.io/publication/stalhandske_etal2017/</link>
-      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/stalhandske_etal2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adaptation to fluctuating environments in a selection experiment with Drosophila melanogaster</title>
-      <link>https://oleimar.github.io/publication/kubrak_etal2017/</link>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/kubrak_etal2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Borrowed plant defences: Deterring browsers using a forestry by-product</title>
-      <link>https://oleimar.github.io/publication/stutz_etal2017/</link>
-      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/stutz_etal2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Individual aggression, but not winner-loser effects, predicts social rank in male domestic fowl</title>
-      <link>https://oleimar.github.io/publication/favati_etal2017/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/favati_etal2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Directional associational plant defense from Red deer (Cervus elaphus) foraging decisions</title>
-      <link>https://oleimar.github.io/publication/bergvallleimar2017/</link>
-      <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://oleimar.github.io/publication/bergvallleimar2017/</guid>
+      <title>Cohesiveness reduces foraging efficiency in a social herbivore</title>
+      <link>https://oleimar.github.io/publication/stutz_etal2018/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://oleimar.github.io/publication/stutz_etal2018/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rebecca S. Stutz | Olof Leimar</title>
+    <link>https://oleimar.github.io/author/rebecca-s.-stutz/</link>
+      <atom:link href="https://oleimar.github.io/author/rebecca-s.-stutz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rebecca S. Stutz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://oleimar.github.io/images/icon_hu05798da5833095988f190093553a38f3_1610_512x512_fill_lanczos_center_2.png</url>
+      <title>Rebecca S. Stutz</title>
+      <link>https://oleimar.github.io/author/rebecca-s.-stutz/</link>
+    </image>
+    
+    <item>
+      <title>A mechanistic understanding of repellent function against mammalian herbivores</title>
+      <link>https://oleimar.github.io/publication/stutz_etal2019b/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://oleimar.github.io/publication/stutz_etal2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient application of a browsing repellent: Can associational effects within and between plants be exploited?</title>
+      <link>https://oleimar.github.io/publication/stutz_etal2019a/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://oleimar.github.io/publication/stutz_etal2019a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cohesiveness reduces foraging efficiency in a social herbivore</title>
+      <link>https://oleimar.github.io/publication/stutz_etal2018/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://oleimar.github.io/publication/stutz_etal2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriella Gamberale-Stille | Olof Leimar</title>
+    <link>https://oleimar.github.io/author/gabriella-gamberale-stille/</link>
+      <atom:link href="https://oleimar.github.io/author/gabriella-gamberale-stille/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gabriella Gamberale-Stille</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://oleimar.github.io/images/icon_hu05798da5833095988f190093553a38f3_1610_512x512_fill_lanczos_center_2.png</url>
+      <title>Gabriella Gamberale-Stille</title>
+      <link>https://oleimar.github.io/author/gabriella-gamberale-stille/</link>
+    </image>
+    
+    <item>
+      <title>Biased generalization of salient traits drives the evolution of warning signals</title>
+      <link>https://oleimar.github.io/publication/gamberale-stille_etal2018/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://oleimar.github.io/publication/gamberale-stille_etal2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning of salient prey traits explains Batesian mimicry evolution</title>
+      <link>https://oleimar.github.io/publication/kazemi_etal2018/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://oleimar.github.io/publication/kazemi_etal2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
