@@ -5,12 +5,20 @@
     <link>https://oleimar.github.io/author/john-m.-mcnamara/</link>
       <atom:link href="https://oleimar.github.io/author/john-m.-mcnamara/index.xml" rel="self" type="application/rss+xml" />
     <description>John M. McNamara</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 08 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://oleimar.github.io/images/icon_hu05798da5833095988f190093553a38f3_1610_512x512_fill_lanczos_center_2.png</url>
       <title>John M. McNamara</title>
       <link>https://oleimar.github.io/author/john-m.-mcnamara/</link>
     </image>
+    
+    <item>
+      <title>Game Theory in Biology - Concepts and Frontiers</title>
+      <link>https://oleimar.github.io/publication/mcnamara_leimar/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://oleimar.github.io/publication/mcnamara_leimar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning leads to bounded rationality and the evolution of  cognitive bias in public goods games</title>
