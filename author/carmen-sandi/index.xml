@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bram Kuijper | Olof Leimar</title>
-    <link>https://oleimar.github.io/author/bram-kuijper/</link>
-      <atom:link href="https://oleimar.github.io/author/bram-kuijper/index.xml" rel="self" type="application/rss+xml" />
-    <description>Bram Kuijper</description>
+    <title>Carmen Sandi | Olof Leimar</title>
+    <link>https://oleimar.github.io/author/carmen-sandi/</link>
+      <atom:link href="https://oleimar.github.io/author/carmen-sandi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carmen Sandi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://oleimar.github.io/images/icon_hu05798da5833095988f190093553a38f3_1610_512x512_fill_lanczos_center_2.png</url>
-      <title>Bram Kuijper</title>
-      <link>https://oleimar.github.io/author/bram-kuijper/</link>
+      <title>Carmen Sandi</title>
+      <link>https://oleimar.github.io/author/carmen-sandi/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://oleimar.github.io/publication/taborsky_etal2021/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://oleimar.github.io/publication/taborsky_etal2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ecological genetic conflict: Genetic architecture can shift the balance between local adaptation and plasticity</title>
-      <link>https://oleimar.github.io/publication/leimar_etal2019/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://oleimar.github.io/publication/leimar_etal2019/</guid>
       <description></description>
     </item>
     
