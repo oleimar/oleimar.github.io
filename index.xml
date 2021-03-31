@@ -5,12 +5,20 @@
     <link>https://oleimar.github.io/</link>
       <atom:link href="https://oleimar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Olof Leimar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 05 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://oleimar.github.io/images/icon_hu05798da5833095988f190093553a38f3_1610_512x512_fill_lanczos_center_2.png</url>
       <title>Olof Leimar</title>
       <link>https://oleimar.github.io/</link>
     </image>
+    
+    <item>
+      <title>The evolution of social dominance through reinforcement learning</title>
+      <link>https://oleimar.github.io/publication/leimar2021/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://oleimar.github.io/publication/leimar2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning, exploitation and bias in games</title>
