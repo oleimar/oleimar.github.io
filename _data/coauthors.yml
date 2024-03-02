@@ -49,3 +49,11 @@
 "sandi":
   - firstname: ["Carmen"]
     url: https://scholar.google.com/citations?user=rzcTnGoAAAAJ&hl=en
+
+"favati":
+  - firstname: ["Anna"]
+    url: https://www.researchgate.net/scientific-contributions/Anna-Favati-2036735935
+
+"løvlie":
+  - firstname: ["Hanne"]
+    url: https://scholar.google.se/citations?user=wn5F1voAAAAJ&hl=sv
