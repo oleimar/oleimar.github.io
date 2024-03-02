@@ -1,34 +1,51 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"mcnamara":
+  - firstname: ["John", "John M.", "J. M."]
+    url: https://scholar.google.co.uk/citations?user=6Xz_jvcAAAAJ&hl=en
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"bshary":
+  - firstname: ["Redouan"]
+    url: https://scholar.google.com/citations?user=HdqFjgMAAAAJ&hl=en
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"quinones":
+  - firstname: ["Andrés", "Andrés E.", "A. E."]
+    url: https://scholar.google.com/citations?user=HLH-X2YAAAAJ&hl=es
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"dall":
+  - firstname: ["Sasha", "Sasha R. X.", "S. R. X."]
+    url: https://scholar.google.co.uk/citations?user=4vxC34wAAAAJ&hl=en
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"houston":
+  - firstname: ["Alasdair", "Alasdair I.", "A. I."]
+    url: https://scholar.google.com/citations?user=F3WcXaIAAAAJ&hl=en
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"hammerstein":
+  - firstname: ["Peter"]
+    url: https://scholar.google.com/citations?user=LUx9VZoAAAAJ&hl=en
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"taborsky":
+  - firstname: ["Barbara"]
+    url: https://scholar.google.com/citations?user=gXT0R8kAAAAJ&hl=en
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"kuijper":
+  - firstname: ["Bram"]
+    url: https://scholar.google.co.uk/citations?user=qoxet6oAAAAJ&hl=en
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"english":
+  - firstname: ["Sinead"]
+    url: https://scholar.google.com/citations?user=0VkApQ0AAAAJ&hl=en
+
+"fawcett":
+  - firstname: ["Tim", "Tim W."]
+    url: https://scholar.google.com/citations?user=GVAIS9IAAAAJ&hl=en
+
+"ruuskanenr":
+  - firstname: ["Suvi"]
+    url: https://scholar.google.com/citations?user=6BgxHbAAAAAJ&hl=en
+
+"lotem":
+  - firstname: ["Arnon"]
+    url: https://scholar.google.com/citations?user=BsTOfMUAAAAJ&hl=en
+
+"Sandi":
+  - firstname: ["Carmen"]
+    url: https://scholar.google.com/citations?user=rzcTnGoAAAAJ&hl=en
